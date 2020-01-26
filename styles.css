@@ -1,0 +1,41 @@
+#nav > a:link
+{
+text-decoration: none;
+}
+#half
+{
+margin: 0px;
+background-image: url("smoke.jpg");
+}
+body
+{
+    margin: 0px;
+}
+#nav{
+    text-align:  right;
+}
+#nav > a
+{
+    padding: 5px;
+    color: rgb(255, 255, 255);
+    
+}
+#myimg
+{
+    margin-left: 28%;
+}
+#imgd{
+    margin-left: 36%;
+    font-size: 30px;
+    
+}
+#imgd > a:link{
+    text-decoration: none;
+}
+#imgd > a{
+    color:whitesmoke ;
+}
+#nav > a:hover{
+    border: solid whitesmoke;
+    border-top: solid whitesmoke;
+}
